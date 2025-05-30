@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @bhar-17
+/src/backend/database.py      @bhar-17
+/src/backend/routers/auth.py  @bhar-17
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @bhar-17
